@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(93, 131, 187);
+  background-color: rgb(118, 152, 202);
   margin: 0;
   color: white;
 }
@@ -16,7 +16,7 @@ h3 {
 
 p, li {
   text-decoration: underline;
-  color: rgb(5, 17, 185);
+  color: rgb(2, 9, 100);
 }
 
 button {
@@ -80,7 +80,7 @@ button {
 }
 
 #STHLogo {
-  width: 500px;
+  width: 450px;
   background: linear-gradient(
         to right,
         transparent 0%,

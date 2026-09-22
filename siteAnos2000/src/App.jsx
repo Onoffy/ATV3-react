@@ -29,6 +29,8 @@ function App() {
           <div>
             <h3>ENFRENTE O DESTINO</h3>
             <p>Uma saga de cinquenta anos daqueles que não têm destino e da luta desesperada para encontrar um lar. São Francisco, 1915. Nossa história começa quando um jovem clandestino embarca num navio misterioso, na calada da noite.</p>
+            <br />
+            <p>O nome dele? Makoto Daito.</p>
 
             <h3>VIOLÊNCIA CRIATIVA, INTUITIVA E EXTREMA</h3>
             <p>Nestes tempos turbulentos,

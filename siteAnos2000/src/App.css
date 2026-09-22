@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(118, 152, 202);
+  background-color: rgb(160, 187, 228);
   margin: 0;
   color: white;
 }
@@ -95,6 +95,18 @@ button {
   grid-template-columns: 1fr 1fr 1fr;
   padding: 0 10px 0 10px;
   gap: 15px;
+}
+
+#launchDay {
+  font-size: 35px;
+  line-height: 1.5;
+  background: linear-gradient(
+        to right,
+        transparent 0%,
+        #d3560e 30%,
+        #d3560e 70%,
+        transparent 100%
+    );
 }
 
 #STHCover { 
